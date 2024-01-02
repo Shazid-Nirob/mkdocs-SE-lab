@@ -3,7 +3,7 @@
 
 To run this project first install node js in your computer.
 
-Secondly you have to clone our code from github repository.  
+Secondly you have to clone our code from github repository. ```https://github.com/iaabrar16/choltourdei.git``` 
 
 There will be two folder one for frontend and second for backend. 
 ![Team Nexus Project](./images/folder.png){width=100%}
