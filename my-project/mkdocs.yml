@@ -1,0 +1,27 @@
+site_name: Team Nexus Project Documentation
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - User Guide: pages\doc\UserGuide.md
+  - Coding Documentation: pages\doc\CodingDocumentation.md
+  - Testing: pages\doc\Testing.md
+  - AJAX: pages\doc\AJAX.md
+
